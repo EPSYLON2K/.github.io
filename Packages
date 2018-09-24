@@ -1,30 +1,15 @@
-Package: com.epsylon2k.packagename
+Package: com.epsylon2k.lunar
 Section: Themes
 Maintainer: EPSYLON <contact.epsylon2k@gmail.com>
 Architecture: iphoneos-arm
 Version: 1.0
 Depends: mobilesubstrate
-Filename: debs//packagename.deb
-Size:
-MD5sum:
-SHA1:
-SHA256:
-Description: A flat and simple theme for Anemone.
-Name: Package Name
-Author: EPSYLON <contact.epsylon2k@gmail.com>
-
-Package: com.epsylon2k.packagename
-Section: Themes
-Maintainer: EPSYLON <contact.epsylon2k@gmail.com>
-Architecture: iphoneos-arm
-Version: 1.0
-Depends: mobilesubstrate
-Filename: debs//packagename.deb
+Filename: debs//lunar.deb
 Size:
 MD5sum:
 SHA1:
 SHA256:
 Description: A flat and simple iOS 12 Theme.
-Depiction: https://epsylon2k.github.io/depic/packagename/index.html
+Depiction: https://epsylon2k.github.io/depic/lunar/index.html
 Name: Lunar
 Author: EPSYLON <contact.epsylon2k@gmail.com>
