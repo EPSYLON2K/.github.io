@@ -1,0 +1,9 @@
+Origin: EPSYLON – Repository
+Label: EPSYLON
+Suite: stable
+Version: 1.0
+Codename: epsylon2k
+Architectures: iphoneos-arm
+Components: main
+Description: Private Repository
+MD5Sum:

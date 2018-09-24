@@ -1,0 +1,12 @@
+Package: com.epsylon2k.packagename
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: EPSYLON <contact.epsylon2k@gmail.com>
+Filename: debs//packagename.deb
+Size: bytes
+Section: Themes
+Description: A flat and simple theme for Anemone.
+MD5sum: nvk3njjnv
+Author: EPSYLON <contact.epsylon2k@gmail.com>
+Depiction: https://epsylon2k.github.io/depic/packagename/index.html
+Name: Package Name
