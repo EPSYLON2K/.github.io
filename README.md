@@ -4,7 +4,7 @@ Add to Cydia: **(coming soon)**
 
 ## Found a bug?
 
-[Open a new issue](https://github.com/EPSYLON2K/LunarTheme/issues/new), **after looking for similar issues already created.**
+[Open a new issue](https://github.com/EPSYLON2K/epsylon2k.github.io/issues/new), **after looking for similar issues already created.**
 
 ## About Me
 
