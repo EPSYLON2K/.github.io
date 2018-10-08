@@ -225,7 +225,7 @@ iframe {
 }
 
 a, button {
-    color: #eb8900;
+    color: #007AFF;
     text-decoration: none
 }
 
@@ -473,7 +473,7 @@ section > ul > li.has-icon p {
 #about > li [role="button"], #about > li [role="link"], #promo > li [role="button"],
 #promo > li [role="link"], section > ul > li [role="button"], section > ul > li [role="link"] {
     display: block;
-    color: #eb8900;
+    color: #007AFF;
     padding-right: 30px;
     -webkit-tap-highlight-color: transparent;
     position: relative;
